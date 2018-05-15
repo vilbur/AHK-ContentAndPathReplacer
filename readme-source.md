@@ -3,13 +3,13 @@
  * Search is proceded down from current directory  
 
 ### Features  
-  String is searched & replaced in following formats:  
- *		"lower case"  
- *		"Title Case"  
- *		"kebab-case"  
- *		"snake_case"  
- *		"PascalCase"  
- *		"camelCase"  
+String is searched & replaced in following formats:  
+* "lower case"  
+* "Title Case"  
+* "kebab-case"  
+* "snake_case"  
+* "PascalCase"  
+* "camelCase"  
 
 ### Parameters  
 @param [ __$selected_file_or_folder__ ]  Pass path for prefill of form  
