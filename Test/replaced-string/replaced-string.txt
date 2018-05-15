@@ -1,4 +1,0 @@
-replaced-string
-replaced string
-replacedString
-replaced_string

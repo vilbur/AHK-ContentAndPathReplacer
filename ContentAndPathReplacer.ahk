@@ -2,8 +2,17 @@
 
 #Include %A_LineFile%\..\includes.ahk
 
-/** Search and replace string in files contents, file & folder names
+/**
+ * Search and replace string in files contents, file & folder names
  * Search is proceded down from current directory
+ *
+ * String is searched & replaced in following formats:
+ *		"lower case"
+ *		"Title Case"
+ *		"kebab-case"
+ *		"snake_case"
+ *		"PascalCase"
+ *		"camelCase"
  *
  * DEPENDENCY:
  *		https://github.com/hi5/TF#TF_RegExReplace
